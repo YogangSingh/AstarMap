@@ -17,6 +17,3 @@ How to use:
 ![Alt text](https://cloud.githubusercontent.com/assets/14060706/21486291/e1c58dce-cb7f-11e6-95c9-4f4601b9ef56.png)
 
 4  Press "Esc" to quit.
-
-
-A windows 64 bit execution file with opencv dll is provided, you can run the sample program.

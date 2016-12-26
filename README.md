@@ -1,6 +1,11 @@
 # AstarMap
 Map version A star algorithm (C++), with opencv mouse interaction.
-Use OpenCV 3.1.0
+Use OpenCV
+
+Download 
+PathMap.exe, opencv_core2413.dll, opencv_highgui2413.dll  to test on your windows system!
+
+
 
 How to use:
 
